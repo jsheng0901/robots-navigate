@@ -20,6 +20,7 @@ This project use following packages:
 *  pandas
 *  seaborn
 *  keras 
+*  lgb
 
 **3. Significance**
 
