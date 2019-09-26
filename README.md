@@ -2,7 +2,7 @@
 
 **1. Introduction**
 
-This project is focus on classofication problem by using machine learning skills
+This project is focus on classification problem by using machine learning skills.
 
 Robots are smart… by design. To fully understand and properly navigate a task, however, they need input about their environment.
 
